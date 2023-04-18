@@ -11,6 +11,7 @@ This is the best chocolate chip cookies recipe ever! No funny ingredients, no ch
 *Ordered list* **item 3**
 
 Source: https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/
+![Cookies are yummy!](/Desktop/recipe/recipe.jpg "Picture of Cookies")
 
 "Enjoy my recipe!"
 =======
